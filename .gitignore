@@ -1,3 +1,7 @@
+*.pyc
+*-checkpoint.py
+*-checkpoint.ipynb
+xx-*.ipynb
 data/*
 !data/**/
 !data/entailment/**/
